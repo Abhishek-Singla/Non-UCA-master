@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "stdio.h": "c",
+        "ll.h": "c",
+        "stdlib.h": "c",
+        "queue": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}
